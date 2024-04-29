@@ -1,0 +1,2 @@
+# strategodot
+Stratego For Godot
